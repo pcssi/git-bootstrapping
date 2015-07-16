@@ -5,3 +5,4 @@ gradlew             text eol=lf
 *.jar               binary
 *.properties        text
 *.gradle            text
+*.java              text diff=java
